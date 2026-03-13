@@ -1,9 +1,12 @@
 # HRM-Analysis-Sampath-Bank
 Strategic analysis of recruitment and digital transformation at Sampath Bank PLC.
+
 Project Overview
+
 This project evaluates the Human Resource Management (HRM) functions of Sampath Bank PLC, a systemically significant financial institution in Sri Lanka. The analysis focuses on how recruitment and selection strategies are utilized to align human capital with the bank's broader goals of Digital Transformation and Customer Centricity.
 
-Key Objectives 
+Key Objectives
+
 Function Identification: Analyzed the recruitment and selection processes within a formalized HR governance framework.
 
 Impact Assessment: Evaluated how effective talent acquisition contributes to organizational resilience and sustainable value creation.
